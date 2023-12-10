@@ -1,0 +1,65 @@
+ 
+{
+"Employees" : [
+        {
+            "employeeID": 1,
+            "name": "Jay Gatsby",
+            "salary": 90500,
+            "department": "Data Analytics"
+        },
+        {
+            "employeeID": 2,
+            "name": "Daisy Buchanan",
+            "salary": 75500,
+            "department": "Communications"
+        },
+        {
+            "employeeID": 3,
+            "name": "Nick Carraway",
+            "salary": 80000,
+            "department": "Finance"
+        },
+        {
+            "employeeID": 4,
+            "name": "Jane Austen",
+            "salary": 40700,
+            "department": "Project Management"
+        },
+        {
+            "employeeID": 5,
+            "name": "Charlie Brown",
+            "salary": 55000,
+            "department": "Network Engineering"
+        },
+        {
+            "employeeID": 6,
+            "name": "James Dean",
+            "salary": 35000,
+            "department": "Cloud Computing"
+        },
+        {
+            "employeeID": 7,
+            "name": "Marilyn Monroe",
+            "salary": 62000,
+            "department": "UX Design"
+        },
+        {
+            "employeeID": 8,
+            "name": "Selena Quintanilla",
+            "salary": 68000,
+            "department": "Human Resources"
+        },
+        {
+            "employeeID": 9,
+            "name": "Emily Browning",
+            "salary": 74500,
+            "department": "FrontEnd Engineering"
+        },
+        {
+            "employeeID": 10,
+            "name": "Johnny Depp",
+            "salary": 80200,
+            "department": "Systems Administration"
+        }]
+        
+}
